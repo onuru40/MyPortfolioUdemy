@@ -43,6 +43,32 @@ Projelerim
 
 ![image](https://github.com/user-attachments/assets/42d2a392-4195-49c3-8722-a034cf6ff5da)
 
+Hizmetlerim
+![image](https://github.com/user-attachments/assets/de14c95f-dbe2-4bdb-9bf7-6aabae44432b)
+
+![image](https://github.com/user-attachments/assets/10c02e51-da38-4e58-8258-d6cbf5e81553)
+
+![image](https://github.com/user-attachments/assets/ba84e33c-d09a-4d54-968b-372e11841897)
+
+İstatistikler
+![image](https://github.com/user-attachments/assets/6783b920-936c-4ba8-9f44-2b202cb2de7f)
+
+Yeteneklerim
+![image](https://github.com/user-attachments/assets/6dc0f0ae-3ea6-4c13-9b7b-edafd4bac0f6)
+
+![image](https://github.com/user-attachments/assets/1d6fb5de-9a6c-4843-822f-4e4146277c5e)
+
+![image](https://github.com/user-attachments/assets/4c1c9c6f-7bda-4034-9d22-85e2a130c720)
+
+Sosyal Medyalar
+![image](https://github.com/user-attachments/assets/46600b40-57ac-49f2-906b-07424ea0e7fd)
+
+Gelen Mesajlar
+![image](https://github.com/user-attachments/assets/e1830f5f-6752-4979-a1b5-d357b6bcd2d2)
+
+404 Sayfası
+![image](https://github.com/user-attachments/assets/03e55cbb-ca2a-4e97-860d-a9f4337e0ebd)
+
 
 
 
