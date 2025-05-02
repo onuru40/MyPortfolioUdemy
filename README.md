@@ -77,6 +77,7 @@ Anasayfa
 ![image](https://github.com/user-attachments/assets/5274b70d-2fb5-403f-813e-65ba2d5fb664)
 
 Hakkımda
+![image](https://github.com/user-attachments/assets/6a85cade-5ad6-47b0-ab93-583e9b7f39d1)
 
 İstatistikler
 ![image](https://github.com/user-attachments/assets/e68a80ce-fc1b-4a57-b392-e7574a7d82f1)
