@@ -2,10 +2,15 @@
 
 🎉Teknolojiler
 Asp.Net Core
+
 PartialView
+
 ViewComponent
+
 Entity Framework CodeFirst
+
 MSSQL Server
+
 Tek Katman
 
 🧑Admin Paneli
