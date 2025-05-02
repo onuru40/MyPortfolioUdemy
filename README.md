@@ -1,5 +1,13 @@
 👋Murat Yücedağ hocamın eğitimiyle yaptığım Asp.Net Core 6.0 ile Portfolio projesi
 
+🎉Teknolojiler
+Asp.Net Core
+PartialView
+ViewComponent
+Entity Framework CodeFirst
+MSSQL Server
+Tek Katman
+
 🧑Admin Paneli
 
 📍 Deneyimlerim
