@@ -69,10 +69,33 @@ Gelen Mesajlar
 404 Sayfası
 ![image](https://github.com/user-attachments/assets/03e55cbb-ca2a-4e97-860d-a9f4337e0ebd)
 
+Kullanıcı Paneli
 
+Anasayfa
+![image](https://github.com/user-attachments/assets/5274b70d-2fb5-403f-813e-65ba2d5fb664)
 
+Hakkımda
 
+İstatistikler
+![image](https://github.com/user-attachments/assets/e68a80ce-fc1b-4a57-b392-e7574a7d82f1)
 
+Yeteneklerim
+![image](https://github.com/user-attachments/assets/4428b377-6f68-48d7-b9cc-0f76432cccf6)
+
+Eğitimlerim & Deneyimlerim
+![image](https://github.com/user-attachments/assets/da57b2e7-b82f-423e-b79b-a3303fc69c51)
+
+Projelerim
+![image](https://github.com/user-attachments/assets/f9b5c8ea-8681-498e-87ef-eee7c8ce82c1)
+
+Hizmetlerim
+![image](https://github.com/user-attachments/assets/1f4cacc1-ee17-4cab-9b5f-a06a05c87941)
+
+Referanslarım & Yorumlarım
+![image](https://github.com/user-attachments/assets/98cb35b3-1888-4068-8d53-75ba1e73e049)
+
+İletişim & Mesaj Gönderme
+![image](https://github.com/user-attachments/assets/ba1614c4-6997-4f35-8202-49a7d217b299)
 
 
 
